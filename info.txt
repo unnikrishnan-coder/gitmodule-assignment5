@@ -1,3 +1,5 @@
 something without whitespace.
 with whitespace.
 with whitespace and tab.
+
+added the post commit hook to display a message.
