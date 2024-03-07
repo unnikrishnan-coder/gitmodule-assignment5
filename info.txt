@@ -3,3 +3,4 @@ with whitespace.
 with whitespace and tab.
 
 added the post commit hook to display a message.
+added the pre push hook.
